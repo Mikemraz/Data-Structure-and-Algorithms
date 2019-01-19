@@ -7,11 +7,11 @@ This repository is intended to implement various data structure and algorithms i
 1.  [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 2. Python for Data Structures, Algorithms, and Interviews. (Udemy course)
 
-## Data structures and algorithms covered
+## Contents
 - Data Structures
     - Linear Data Structures
-        - [ ] Stack
-        - [ ] Queue
+        - [x] Stack
+        - [x] Queue
         - [ ] Deque
         - [ ] Unordered list: linked lists
         - [ ] Ordered list
@@ -23,4 +23,7 @@ This repository is intended to implement various data structure and algorithms i
         - [ ] balanced binary search trees
         - [ ] AVL trees
     - Graph
-        - [ ]   
+- Exercise
+	1. Queue
+		- Hot Potato (Josephus Survival)
+   
