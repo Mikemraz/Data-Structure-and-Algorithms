@@ -24,6 +24,12 @@ This repository is intended to implement various data structure and algorithms i
         - [ ] AVL trees
     - Graph
 - Exercise
-	1. Queue
-		- Hot Potato (Josephus Survival)
+	1. Stack
+		- [ ] Balanced Parentheses 
+	2. Queue
+		- [X] Hot Potato (Josephus Survival)
+		- [ ] Printing Task
+	3. Deque
+		- [ ] Palindrome-Checker
+	
    
