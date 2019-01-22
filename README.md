@@ -12,8 +12,8 @@ This repository is intended to implement various data structure and algorithms i
     - Linear Data Structures
         - [x] Stack
         - [x] Queue
-        - [ ] Deque
-        - [ ] Unordered list: linked lists
+        - [x] Deque
+        - [x] Unordered list (linked lists)
         - [ ] Ordered list
     - Hashing
          [ ] Map ADT 
@@ -27,7 +27,7 @@ This repository is intended to implement various data structure and algorithms i
 	1. Stack
 		- [ ] Balanced Parentheses 
 	2. Queue
-		- [X] Hot Potato (Josephus Survival)
+		- [x] Hot Potato (Josephus Survival)
 		- [ ] Printing Task
 	3. Deque
 		- [ ] Palindrome-Checker
