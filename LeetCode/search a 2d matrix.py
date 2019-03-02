@@ -28,7 +28,6 @@ def searchMatrix(matrix, target):
         return True
     elif target>matrix[end_row][0]:
         target_row = end_row
-    print(target_row)
     # then search in target row
     start_column = 0
     end_column = column_number - 1
