@@ -32,10 +32,11 @@ interactive online course.
     - Hashing
          [ ] Map ADT 
     - Trees
-        - [ ] binary heap
         - [ ] binary search trees
+        - [ ] binary heap
         - [ ] balanced binary search trees
-        - [ ] AVL trees
+       	 - [ ] AVL trees
+	 - [ ] Black Red trees
     - Graph
 	- python built-in data structures
 - Algorithms
